@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Sou o Lucas 👋
 
-<!--
-**duartelucas03/duartelucas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente em busca de uma oportunidade.
+- 📘 Cursando Gestão da Informação na UFU.
+- 💻 Aprendendo Front-end e Back-end com a formação Oracle Next Education.
 
-Here are some ideas to get you started:
+##
+<div>
+<a href="https://github.com/duartelucas03">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duartelucas03&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartelucas03&theme=radical" />
+</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+  <a href = "mailto:lucasldsduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-soares03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
