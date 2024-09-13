@@ -1,18 +1,19 @@
-## 👋 Olá! Sou o Lucas 
+## 👋 Olá! Me chamo Lucas 
 
 - 🔭 Atualmente em busca de uma oportunidade.
 - 📘 Cursando Gestão da Informação na UFU.
-- 💻 Aprendendo Front-end e Back-end com a formação Oracle Next Education.
+- 💻 Aprendendo Back-end com a formação Oracle Next Education.
+- 📈 Aprendendo Análise de Dados com PowerBI e Python na DIO.
 
-##
+## 📊 Estatísticas:
 <div>
 <a href="https://github.com/duartelucas03">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duartelucas03&theme=radical" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartelucas03&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duartelucas03&theme=radical&rank_icon=github&locale=pt-br&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartelucas03&theme=radical&locale=pt-br" />
 </a>
 </div>
 
-## 🔧 Ferramentas:
+## 🔧 Linguagens e ferramentas:
 <div>
   <img alt='python' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img alt='r' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />        
@@ -32,8 +33,9 @@
 ## 📞 Contato:
 
 <div> 
-  <a href = "mailto:lucasldsduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasldsduarte@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-black?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)&color=%23EA4335" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-soares03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://duartelucas03.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/-PORTFOLIO-white?style=for-the-badge&logo=github&color=rgb(0%2C0%2C0)" target="_blank"></a>
 </div>
 
 ##
