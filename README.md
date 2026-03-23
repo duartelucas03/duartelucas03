@@ -1,47 +1,68 @@
-## 👋 Olá! Me chamo Lucas 
+<div align="center">
 
-- 🔭 Atualmente atuando como analista de dados na Algar.
-- 📘 Formado Gestão da Informação na UFU.
-- 💻 Formado em Back-end na Alura pela Oracle Next Education.
-- 📈 Aprendendo contínuamente.
+# Lucas Soares
 
-## 📊 Estatísticas:
-<div>
-<a href="https://github.com/duartelucas03">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duartelucas03&theme=radical&rank_icon=github&locale=pt-br&include_all_commits=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartelucas03&theme=radical&locale=pt-br" />
-</a>
+**Analista de Dados em formação · Estagiário · Gestão da Informação @ UFU**
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasldsduarte@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-soares03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://duartelucas03.github.io/PORTFOLIO/)
+
 </div>
 
-## 🔧 Linguagens e ferramentas:
-<div>
-  <img alt='python' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img alt='r' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />        
-  <img alt='html5' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img alt='css' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img alt='java' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img alt='javascript' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
-  <img alt='git' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt='markdown' height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-  
-          
-          
-          
-          
+---
+
+## Sobre mim
+
+Estou formando em **Gestão da Informação** na UFU, atualmente atuando como **estagiário** na área de dados. Tenho interesse em Análise de Dados, Engenharia de Dados e Ciência de Dados, com foco em transformar dados em decisões estratégicas.
+
+- 🎓 Gestão da Informação — Universidade Federal de Uberlândia (UFU)
+- 💼 Atualmente trabalhando como estagiário
+- 📊 Desenvolvendo habilidades em Análise de Dados com Python, PowerBI e SQL
+
+---
+
+## Tecnologias e Ferramentas
+
+**Dados & Análise**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-FF6600?style=flat-square&logo=hitachi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Desenvolvimento**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+---
+
+## Estatísticas
+
+<div align="center">
+  <a href="https://github.com/duartelucas03">
+  <img height=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartelucas03&theme=radical&locale=pt-br" />
+  </a>
 </div>
 
-## 📞 Contato:
 
-<div> 
-  <a href = "mailto:lucasldsduarte@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-black?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)&color=%23EA4335" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-soares03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://duartelucas03.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/-PORTFOLIO-white?style=for-the-badge&logo=github&color=rgb(0%2C0%2C0)" target="_blank"></a>
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake.svg">
+    </picture>
 </div>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duartelucas03/duartelucas03/output/github-contribution-grid-snake.svg">
-</picture>
