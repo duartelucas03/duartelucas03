@@ -1,9 +1,9 @@
 ## 👋 Olá! Me chamo Lucas 
 
-- 🔭 Atualmente em busca de uma oportunidade.
-- 📘 Cursando Gestão da Informação na UFU.
-- 💻 Aprendendo Back-end com a formação Oracle Next Education.
-- 📈 Aprendendo Análise de Dados com PowerBI e Python na DIO.
+- 🔭 Atualmente atuando como analista de dados na Algar.
+- 📘 Formado Gestão da Informação na UFU.
+- 💻 Formado em Back-end na Alura pela Oracle Next Education.
+- 📈 Aprendendo contínuamente.
 
 ## 📊 Estatísticas:
 <div>
